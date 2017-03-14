@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=12V Pin=12VIN1-1
+Removed Pin From Net: NetName=GND Pin=12VIN1-2
+Removed Pin From Net: NetName=12V Pin=12VIN2-1
+Removed Pin From Net: NetName=GND Pin=12VIN2-2
+Removed Member From Class: ClassName=liuyang Member=12VIN1
+Removed Member From Class: ClassName=liuyang Member=12VIN2
+Change Component Footprint: Designator=SW Old Footprint=HDR1X2 New Footprint=TX30-m
+Change Component Comment : Designator=SW Old Comment=TX60 New Comment=TX30

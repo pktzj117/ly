@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=TX1 Pin=P1-1
+Added Pin To Net: NetName=RX1 Pin=P1-2
+Added Pin To Net: NetName=PA8 Pin=U2-29
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA11 Pin=U2-32
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=U2-33
+Added Net: Name=PA12
+Added Pin To Net: NetName=PB12 Pin=U2-25
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=U2-26
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=U2-27
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=U2-28
+Added Net: Name=PB15
+Added Room: Name=liuyang

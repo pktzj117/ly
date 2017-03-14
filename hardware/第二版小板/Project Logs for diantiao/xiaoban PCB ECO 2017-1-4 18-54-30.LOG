@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC12V Pin=SW-2
+Added Pin To Net: NetName=VCC12V Pin=SW-1
+Added Pin To Net: NetName=GND Pin=SW-2

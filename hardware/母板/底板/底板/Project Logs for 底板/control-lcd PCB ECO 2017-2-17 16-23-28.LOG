@@ -1,0 +1,12 @@
+Added Component: Designator=DEBUG(DF13-1.25-4A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=DEBUG-4
+Added Pin To Net: NetName=SWCLK Pin=DEBUG-3
+Added Pin To Net: NetName=SWCLK Pin=U1-76
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=DEBUG-2
+Added Pin To Net: NetName=SWDIO Pin=U1-72
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VDD_3V3 Pin=DEBUG-1
+Added Net: Name=VDD_3V3
+Added Member To Class: ClassName=Sheet1 Member=Component DEBUG CON4

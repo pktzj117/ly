@@ -1,0 +1,8 @@
+Added Component: Designator=C9(C0603)
+Added Component: Designator=C10(C0603)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=ADC_I Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=ADC_C Pin=C10-2
+Added Member To Class: ClassName=liuyang Member=Component C9 0.1uF
+Added Member To Class: ClassName=liuyang Member=Component C10 0.1uF

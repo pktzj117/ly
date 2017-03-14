@@ -1,0 +1,6 @@
+Added Component: Designator=SC1(SCRREW_M3)
+Added Component: Designator=SC2(SCRREW_M3)
+Added Component: Designator=SC3(SCRREW_M3)
+Added Member To Class: ClassName=liuyang Member=Component SC1 M3
+Added Member To Class: ClassName=liuyang Member=Component SC2 M3
+Added Member To Class: ClassName=liuyang Member=Component SC3 M3

@@ -1,0 +1,5 @@
+Added Component: Designator=Y1(CRYSMD3.2X1.3)
+Added Pin To Net: NetName=NetU2_5 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetU2_6 Pin=Y1-3
+Added Member To Class: ClassName=liuyang Member=Component Y1 CSTCE8M00G55R0

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options IsRTTSession="0" IsRTTWithTimeStamp="1" SamplingPeriod="100" Connection="1" SerialNo="0" IP="" TargetDevice="Cortex-M3" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ElfFile Name="E:\ly\CODE\BUTTON\OBJ\ADC.axf" />
+            <DataFile Name="" />
+            <RawFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="200000" />
+            </Scope>
+            <Trigger>
+                <Options Level="4500.000000" Symbol="qInRef" On="0" Auto="0" Rise="1" Fall="0" />
+            </Trigger>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="qInRef" Address="0x2000037E" Type="ushort" TypeID="7" Size="2" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="0" YMaxSampled="3200" YAvgSampled="3199" Offset="4" ShowInGraph="1" YOffset="200" IsAutoConfig="0" YResolution="2000" MaxValue="5670" File="..\HARDWARE\pi\pi.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="qInMeas" Address="0x20000380" Type="ushort" TypeID="7" Size="2" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="0" YMaxSampled="65005" YAvgSampled="3750" Offset="6" ShowInGraph="1" YOffset="200" IsAutoConfig="0" YResolution="20000" MaxValue="113400" File="..\HARDWARE\pi\pi.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="qOut" Address="0x20000382" Type="short" TypeID="11" Size="2" GraphColorRed="0" GraphColorGreen="0" GraphColorBlue="176" YMinSampled="1100" YMaxSampled="1900" YAvgSampled="1163" Offset="8" ShowInGraph="1" YOffset="70" IsAutoConfig="1" YResolution="1000" MaxValue="6350" File="..\HARDWARE\pi\pi.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="speed" Address="0x2000002C" Type="volatile ushort" TypeID="7" Size="2" GraphColorRed="160" GraphColorGreen="32" GraphColorBlue="240" YMinSampled="0" YMaxSampled="65005" YAvgSampled="3742" Offset="10" ShowInGraph="1" YOffset="200" IsAutoConfig="1" YResolution="20000" MaxValue="101000" File="..\HARDWARE\EXTI\exti.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>
